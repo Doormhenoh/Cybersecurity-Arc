@@ -1,19 +1,30 @@
-# Day 1 Journal – Web Basics & Lab Setup
+# Day 1 Journal – Setup & Target Familiarization
 
-Date: [20/8/2025]
+Date: 20/8/2025  
+Target: Shopify  
+Alias: 0x2Recon
 
-What I did today:
-- Installed Kali, Metasploitable, and Windows Server
-- Configured Burp Suite proxy
-- Explored HTTP methods and cookies
-- Edited my HackerOne profile to add my GitHub and X
+# What I did today:
+- Updated HackerOne profile and linked socials  
+- Chose Shopify as my first public program  
+- Reviewed scope, exclusions, and bounty tiers  
+- Installed Burp Suite and configured Firefox proxy  
+- Installed browser extensions: Wappalyzer, HackTools, Cookie Editor  
+- Created a note-taking system and folder structure  
+- Ran basic recon: whois, nslookup, crt.sh, subfinder  
+- Analyzed subdomains and attempted payload injection
 
-What I learned:
-- 
+# What I learned:
+- Subdomains reveal hidden services and expand the attack surface  
+- Shopify’s infrastructure is heavily protected  
+- Burp Suite setup is essential for traffic interception  
+- Browser extensions streamline recon and payload testing
 
-Challenges faced:
-- Setting up the Burp Suite Proxy was proving a bit difficult, but I was able to fix it by watching YouTube videos.
+# Challenges faced:
+- Bot protection blocked access to help pages and input forms  
+- No clear injection points in initial requests
 
-Next steps:
-- Practice intercepting requests
-- Start TryHackMe: Intro to Web
+# Next steps:
+- Use `httpx`, `gau`, and `hakrawler` for passive recon  
+- Organize endpoints and parameters  
+- Begin vulnerability mapping for Day.
