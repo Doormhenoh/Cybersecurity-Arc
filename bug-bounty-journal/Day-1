@@ -6,12 +6,13 @@ What I did today:
 - Installed Kali, Metasploitable, and Windows Server
 - Configured Burp Suite proxy
 - Explored HTTP methods and cookies
+- Edited my HackerOne profile to add my GitHub and X
 
 What I learned:
-- [Insert key takeaways]
+- 
 
 Challenges faced:
-- [Insert any issues or blockers]
+- Setting up the Burp Suite Proxy was proving a bit difficult, but I was able to fix it by watching YouTube videos.
 
 Next steps:
 - Practice intercepting requests
